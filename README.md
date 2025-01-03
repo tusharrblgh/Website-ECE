@@ -1,2 +1,1 @@
-# Website-ECE
-Website Project.
+# ECE-Website-Company
